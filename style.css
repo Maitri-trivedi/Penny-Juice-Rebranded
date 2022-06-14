@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&family=Montserrat&family=Poppins:wght@200;400&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#title{
+    background-color: white;
+}
+.container-fluid{
+    padding: 0 5% 0;
+}
+.navbar a{
+    color:#ff4c68;  
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+.big-heading{
+    font-family: 'El Messiri', sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    font-size: 3rem;
+    /* color: rgb(81, 69, 69); */
+    color: #ff4c68;
+}
+.title-content{
+    text-align: left;
+    
+}
+.title-content-info{
+    margin-top: 5%;
+}
+.title-para-content{
+    padding: 1% 30% 1% 0;
+    line-height: 2rem;
+}
+.btn{
+    border-radius: 0;
+    margin-top: 2%;
+}
+.title-image {
+    width: 70%;
+    height: auto;
+    position: relative;
+    left: 45%;
+    bottom: 5rem;
+}
+.sqqueze{
+    padding: 5% 15%;    
+}
+.about-image{
+    width: 70%;
+    height: auto;
+    position: relative;
+    left: 5%;
+    bottom: 3rem;
+    transform: rotate(30deg);
+}
+.about-content-info{
+    margin-top: 5%;
+    line-height: 2rem;
+}
+.testimonials{
+    text-align: center;
+}
+.testimonial-content-info{
+    margin-top: 25%;
+    padding: 0 5%;
+    line-height: 2rem ;
+}
+.nutrition-content-info-1{
+    margin-top: 5%;
+    line-height: 2rem;
+}
+.nutrition-content-info-2{
+    margin-top: 10%;
+    line-height: 2rem;
+}
+.nutrition-image{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.juice-btn{
+    /* padding: 3%; */
+    position: absolute;
+    left:40%;
+    bottom: 1px;
+    /* top: 0.1rem; */
+}
+.juice-section{
+    margin-top: 5%;
+}
+.juice-image{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.juice-heading{
+    font-family: 'El Messiri', sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    font-size: 2.5rem;
+    margin-bottom: 7%;
+    color: #ff4c68;
+}
+h3{
+    color: #6c2933;
+    margin-bottom: 7%;
+}
+.juice-content-info{
+    padding: 0 0 0 7%;
+}
+.carousel-control-prev-icon .carousel-control-next-icon{
+    background-color: #ff4c68;
+    position: relative;
+    z-index: 1;
+}
